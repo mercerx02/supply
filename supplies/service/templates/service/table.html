@@ -1,0 +1,38 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="{% static 'service/css/styles.css' %}">
+		<title>Пример html таблицы c подсветкой четных и нечетных строк на CSS3</title>
+	</head>
+	<body>
+		<table>
+			<thead>
+				<tr>
+					<th>№</th>
+					<th>Заказ №</th>
+					<th>Стоимость,$</th>
+					<th>Стоимость, руб</th>
+					<th>Дата поставки</th>
+				</tr>
+			</thead>
+			<tbody>
+
+				<tr>
+					{% block main %}
+					{% for d in data %}
+					<td>{{d.id}}</td>
+					<td>{{d.order_number}}</td>
+					<td>{{d.price_usd}}</td>
+					<td>{{d.price_rub}}</td>
+					<td>{{d.date_supply}}</td>
+					{% endfor %}
+					{% endblock main %}
+
+				</tr>
+
+			</tbody>
+		</table>
+	</body>
+</html>

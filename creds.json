@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "supplies-353218",
+  "private_key_id": "dc8001a11de490428bb8c470aee755e3ca3f7ddc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKQzf9YPYkhiYL\nYS4ASGOpva39+icw55rKeFxxnOJtIGClOQxnauaJNCDcrtoQ1+uMLSjLDsFcvo95\nyQFAVZTdfNRoeCSod9ugaPG/xi+Exz1zll2TufhahbdmMhO8PHoOcNynZe6zH80l\nEdp97zV4pG+rUTLD1+ns6Bb5ODvnUN5VWM2yZ2o1wRmnDq8lk3XFQSoIZCDHo1S7\nlBsbETitwTTByZCv3WKYkN6cFHDyay74nUoAp3Nh8GCT+EBC4r7ozKW2E3p2GuCt\nfLeG8aonVj+eG7MY8DvTx0UoTyg29ZWOOEI1d3/SMyWvBxg4YYgBf1ZCs/i6sh9z\nqZnUUUTRAgMBAAECggEABbh40FeKTAD9o/jrvxHNEdCzJ68IJeZdttLIfeUg8/2v\nBhVIOseSUs3w4lT8BsRt8tEXKYZsD8u1oqKTALxllrhwXdkMuQq/do4T96eAZ2S8\nN0qeMG6u2HPrj+jO1+uCTJTCxOWe5p2PD43toai0Q4qBEbXHoLQ4t0eJg3h58ezx\nzkf0XS4nT9j47oOKJ7K7faD/Ci7+vOjQPoMVePKngObzHth1niBgclDfPlZUJk3M\n+kpG6YiZs+OZWoTK5UhdNB0qE0yD+JbE1ZBXzOQdGS+u8TNCd0lDuDj3tUTotYyv\n9FBTPIyBRsXfvgHZnn3kyGq19E2KhcZAr+I1jn8MPQKBgQDuIsUuspMewOc6n0xe\nYaTQlXm0LAL+QfGD1Zq/RCnonb4DiJJL1Zz5h5mj0jdimQDYkNuGLxmd+4jYGWrl\nYIPtJbwbtvhSZtalYvt52yvcFb1c6ToKelSqbpZc04xtELMSE8ew53bnehMZiwgl\n6xGPrMwbQrjK3lf22HldQLo8LQKBgQDZb4c0oqXm70Iyy+RWJFCKLp5WbWQag3Rn\njiu5rnFNwL5IiPPOj2tXX3vamZVyh8gNig3EWeQHNqU8M8XvTAkN73B//RFh5AEz\nbii1I5tz0WH95V1zvWLWjltUI9SJ8REgfLbntd/XRdy9QtzH+EfFpbbrcjj2OkCo\n0sT0rEY9tQKBgHFhJqbEKR3UVINpwu+Q5+rTsD1jUw2Bkh7lvabhKl7xc7208Yqf\nqvx3XmRMO0h7dpal6Y8qr7SzRQU2nNmXKVjoxXYgmHyLMBlQVlE/U9OWmjE5bgP9\nGICI5JhPtKVc9RVfS41jtw4g5iUcOAXttM/GQuubyeX1FMaXbLlEjycFAoGAR9Kf\nRrOzOWUu6LiQ5CN6typPAx1/Q4LIoKxFpUAKDTTtpegXINQfEO1pa/vvcbWIT3Ca\nu5E10WwriIdRiooDM6cz8hMV+s/l1ac9qxfn8YnoZIWvKNwWGelMIa70Ndx7W8/W\nWxOorONW1u2PID7S9maW1Y8VYcA8O4fjpy6AxUECgYEAvHstbDFoybcfXG6rrqi/\nnnkgVVsFhRy6BFJhX6N1QozyxvoJt1ko4af732ggACxXlZdQKEP7UAJ5abjJnqCo\nDPrpdLhUw/HODFGP6lIrbvV9ZJ+1NljWX1btEQlGx1m9NT74NEq2vZbVrmniXlpS\nnyk5QVioVuuZBtDO3YZ94HM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mercer-account@supplies-353218.iam.gserviceaccount.com",
+  "client_id": "112331139358477925719",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mercer-account%40supplies-353218.iam.gserviceaccount.com"
+}
